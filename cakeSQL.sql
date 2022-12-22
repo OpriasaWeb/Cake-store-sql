@@ -12,4 +12,4 @@ LIMIT 3
 -- Write a query to sort the cakes by calorie count and select the first 3 cakes from the list to offer the customer.
 
 -- Reminder:
--- Try to combine ORDER BY and LIMIT keywords.
+-- Try to combine ORDER BY and LIMIT keywords
